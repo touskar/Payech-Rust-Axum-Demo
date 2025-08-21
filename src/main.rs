@@ -33,7 +33,7 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
 
     let bind_address = format!("0.0.0.0:{}", port);
     let listener = tokio::net::TcpListener::bind(&bind_address).await?;
-    println!("Server running on http://{}", bind_address);
+    println!("Server Paytech running on http://{}", bind_address);
 
     axum::serve(listener, app).await?;
 
