@@ -1,0 +1,74 @@
+{
+  "products": [
+    {
+      "uuid": "550e8400-e29b-41d4-a716-446655440001",
+      "name": "Smartphone Samsung Galaxy A54",
+      "description": "Téléphone Android 5G avec écran AMOLED 6.4 pouces et triple caméra",
+      "price_xof": 285000,
+      "type": "electronics"
+    },
+    {
+      "uuid": "550e8400-e29b-41d4-a716-446655440002",
+      "name": "Ordinateur Portable HP Pavilion",
+      "description": "Laptop 15.6 pouces avec processeur Intel Core i5 et 8GB RAM",
+      "price_xof": 450000,
+      "type": "electronics"
+    },
+    {
+      "uuid": "550e8400-e29b-41d4-a716-446655440003",
+      "name": "Riz Parfumé Jasmin 5kg",
+      "description": "Riz thaïlandais de qualité premium, grain long et parfumé",
+      "price_xof": 12500,
+      "type": "food"
+    },
+    {
+      "uuid": "550e8400-e29b-41d4-a716-446655440004",
+      "name": "Tablette iPad Air",
+      "description": "Tablette Apple 10.9 pouces avec puce M1 et support Apple Pencil",
+      "price_xof": 425000,
+      "type": "electronics"
+    },
+    {
+      "uuid": "550e8400-e29b-41d4-a716-446655440005",
+      "name": "Huile d'Olive Extra Vierge 1L",
+      "description": "Huile d'olive première pression à froid, origine Tunisie",
+      "price_xof": 8500,
+      "type": "food"
+    },
+    {
+      "uuid": "550e8400-e29b-41d4-a716-446655440006",
+      "name": "Enceinte Bluetooth JBL Charge 5",
+      "description": "Enceinte portable étanche IP67 avec autonomie 20h et powerbank intégré",
+      "price_xof": 85000,
+      "type": "electronics"
+    },
+    {
+      "uuid": "550e8400-e29b-41d4-a716-446655440007",
+      "name": "Pack Eau Minérale 12x1.5L",
+      "description": "Eau minérale naturelle, faible en sodium",
+      "price_xof": 3600,
+      "type": "food"
+    },
+    {
+      "uuid": "550e8400-e29b-41d4-a716-446655440008",
+      "name": "T-shirt Nike Dri-FIT",
+      "description": "T-shirt sport homme en polyester respirant, technologie anti-transpiration",
+      "price_xof": 25000,
+      "type": "clothing"
+    },
+    {
+      "uuid": "550e8400-e29b-41d4-a716-446655440009",
+      "name": "Jeans Levi's 501 Original",
+      "description": "Jean classique coupe droite, 100% coton denim",
+      "price_xof": 65000,
+      "type": "clothing"
+    },
+    {
+      "uuid": "550e8400-e29b-41d4-a716-446655440010",
+      "name": "Café Moulu Arabica 500g",
+      "description": "Café 100% arabica torréfié artisanalement, notes chocolatées",
+      "price_xof": 5500,
+      "type": "food"
+    }
+  ]
+}
